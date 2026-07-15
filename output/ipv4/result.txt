@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2026-07-15 07:00:04,http://198.204.228.26/live/cctv9hd.m3u8
+2026-07-15 19:38:29,http://198.204.228.26/live/cctv9hd.m3u8
 
 📺央视频道,#genre#
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11,http://www.negative.top:50000/rtp/233.50.200.132:5140
+CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=bbbd054778ab532edfa97bf7c5395746&wsTime=6a544fee&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&t_id=037-2026071310394131FD5A22CCB9DDAFA77E-5XIF43
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 
 💰央视付费频道,#genre#
@@ -22,6 +23,8 @@ CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
 辽宁卫视,http://198.204.228.26/live/lnwshd.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
+四川卫视,http://182.37.41.46:8154/tsfile/live/0123_1.m3u8?key=txiptv
+深圳卫视,http://58.56.162.102:4466/newlive/live/hls/24/live.m3u8
 
 ☘️湖南频道,#genre#
 
@@ -37,8 +40,8 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=082a2e30e260e629bde8f58d4861bee0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=cefe64289cde2680e596ee3c1c6a4bf2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=082a2e30e260e629bde8f58d4861bee0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🪁动画频道,#genre#
