@@ -1,13 +1,11 @@
 🕘️更新时间,#genre#
-2026-11-02 00:40:03,http://45.192.97.170:8880/play/256.m3u8
+2026-11-02 09:23:12,http://45.192.97.170:8880/play/256.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://45.192.97.170:8880/play/256.m3u8
 CCTV-3,http://45.192.97.170:8880/play/257.m3u8
-CCTV-5,http://45.192.97.170:8880/play/259.m3u8
 CCTV-8,http://45.192.97.170:8880/play/263.m3u8
 CCTV-9,http://45.192.97.170:8880/play/264.m3u8
-CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6eba369ff120b2ed6e1365d347cff21a
 CCTV-10,http://45.192.97.170:8880/play/265.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
@@ -24,7 +22,6 @@ CETV-1,http://45.192.97.170:8880/play/222.m3u8
 深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
 
 ☘️湖南频道,#genre#
-金鹰纪实,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
@@ -35,8 +32,8 @@ CETV-1,http://45.192.97.170:8880/play/222.m3u8
 靖天资讯,http://zby.lskk.top/cdnlive.php?mode=play&id=14cc21b7b4bf570db94cd3b91fa9dea6&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 
 🎬电影频道,#genre#
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
